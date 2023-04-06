@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Repositories 🤝</h1>
 <p>
-   <img align="center" alt="Cesar-C++" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+   <img align="center" alt="Cesar-PHP" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </p>
 
 > 🌱👨‍💻 - I learned about Arrays and Associative Arrays. Created functions to encapsulate logic. Mastered strings and got to know interpolation. Wrote my first web code. Learned the difference between passing by value and passing by reference. I created this project using the Alura course.
